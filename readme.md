@@ -1,1 +1,1 @@
-Projeto ensinando a usar o GIT
+Primeiro readme do GIT
